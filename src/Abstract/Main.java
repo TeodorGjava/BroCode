@@ -7,5 +7,7 @@ public class Main {
         Vehicle vehicle = new Car();
         car.go();
         vehicle.go();
+        car.stop();
+        vehicle.stop();
     }
 }
