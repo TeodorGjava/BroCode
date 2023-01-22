@@ -1,0 +1,1 @@
+package thinking.files; public enum Colors { RED,GREEN,BLUE,YELLOW,ORANGE,BLACK,WHITE }
