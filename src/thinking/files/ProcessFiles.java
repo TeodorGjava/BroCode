@@ -56,7 +56,7 @@ up to the point where the characters are no longer printable.
         return date;
     }
 
-    protected static File getFile() {
+    public static File getFile() {
         JFileChooser chooser = new JFileChooser();
         chooser.setCurrentDirectory(new File("."));
         chooser.setDialogTitle("choosertitle");
